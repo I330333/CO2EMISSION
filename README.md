@@ -18,6 +18,7 @@ You can find the Schema for the table CO2emission, in the following URL. Here th
 
 http://localhost:8080/h2-console/login.jsp?jsessionid=086126cfa68028ca3795773855051232
 
+![image](https://user-images.githubusercontent.com/59384874/82643887-f8367000-9c2d-11ea-9de2-50522479e648.png)
 
 When you execute the table by selecting the table schema, you will get the details of co2emission with vehicle type and its details as below.
 
